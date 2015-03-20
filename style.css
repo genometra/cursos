@@ -869,3 +869,11 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+
+
+/* DAVID */
+.contenido-cursos {
+    text-align: left;
+}
+
